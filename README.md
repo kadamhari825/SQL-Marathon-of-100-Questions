@@ -1,4 +1,4 @@
-# SQL-Marathon-of-100-Questions
+# SQL-Marathon-of-100+-Questions
 
 In this repo I have bunduled 100+ SQL questions written by Medium Writer [Avi Chwala](https://www.linkedin.com/in/avi-chawla/) and my simple
 approches to solve those queries so that people who are starting to learn SQL will be benifitted.
